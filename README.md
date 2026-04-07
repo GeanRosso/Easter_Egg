@@ -26,9 +26,9 @@ Description: The frontend provides a state-driven command center. It employs asy
 
 Project Structure
 Plaintext
-├── Hardware_AVR/          # C drivers for UART, I2C, LCD, and Sensors
-├── WebAPI_DotNet/         # .NET Service Layer, Serial Bridge, and Controllers
-└── Frontend_React/        # React components, State management, and Styles
+1- Hardware_AVR/          # C drivers for UART, I2C, LCD, and Sensors
+2- WebAPI_DotNet/         # .NET Service Layer, Serial Bridge, and Controllers
+3- Frontend_React/        # React components, State management, and Styles
 Technical Features
 Bidirectional Data Pipeline: Real-time sensor telemetry flows upstream to the UI, while authenticated control commands flow downstream to the hardware.
 
