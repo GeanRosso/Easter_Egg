@@ -15,7 +15,7 @@ void i2c_packet(uint8_t data) {
 }
 
 void lcd_send(uint8_t val, uint8_t mode) {
-    // We combine the value with the mode and the current backlight state
+    
     uint8_t high = (val & 0xf0) | mode | backlight_state; 
     uint8_t low = ((val << 4) & 0xf0) | mode | backlight_state;
     
