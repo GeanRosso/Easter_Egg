@@ -1795,11 +1795,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\geanc\\OneDrive\\Área de Trabalho\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\geanc\\OneDrive\\Documentos\\PlatformIO\\Projects\\Easter_Egg\\WebApi_FrontEnd\\WebAPI\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\geanc\\OneDrive\\Área de Trabalho\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\geanc\\OneDrive\\Documentos\\PlatformIO\\Projects\\Easter_Egg\\WebApi_FrontEnd\\WebAPI\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\geanc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\geanc\\OneDrive\\Área de Trabalho\\WebAPI\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\geanc\\OneDrive\\Documentos\\PlatformIO\\Projects\\Easter_Egg\\WebApi_FrontEnd\\WebAPI\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\geanc\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BqOnP6uWl1o=",
+  "dgSpecHash": "HuYnhTf5l5k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\geanc\\OneDrive\\Área de Trabalho\\WebAPI\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\geanc\\OneDrive\\Documentos\\PlatformIO\\Projects\\Easter_Egg\\WebApi_FrontEnd\\WebAPI\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geanc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
     "C:\\Users\\geanc\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
